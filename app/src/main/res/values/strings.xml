@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Practice with Intents</string>
+    <string name="open_web">Open Web Page</string>
+    <string name="make_call">Call</string>
+    <string name="g_map">Google Maps</string>
+    <string name="take_pic">Take a picture</string>
+    <string name="send_email">Send Email</string>
+</resources>
